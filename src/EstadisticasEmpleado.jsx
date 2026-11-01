@@ -132,7 +132,7 @@ export default function EstadisticasEmpleado({ quincenaActivaObj, resumenQuincen
       {/* ================================================================= */}
       {/* GRÁFICOS: 1. BARRAS APILADAS | 2. LÍNEA HISTÓRICA                  */}
       {/* ================================================================= */}
-      <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(280px, 1fr))', gap: '12px' }}>
+      <div style={{ display: 'grid', gridTemplateColumns: '1fr', gap: '12px' }}>
         {/* Gráfico 1: Barra Apilada */}
         <div style={{ padding: '14px', backgroundColor: '#090d16', borderRadius: '10px', border: '1px solid #334155' }}>
           <div style={{ fontSize: '12px', fontWeight: 'bold', color: '#e2e8f0', marginBottom: '8px', display: 'flex', justifyContent: 'between' }}>
@@ -161,11 +161,11 @@ export default function EstadisticasEmpleado({ quincenaActivaObj, resumenQuincen
           <div style={{ fontSize: '12px', fontWeight: 'bold', color: '#e2e8f0', marginBottom: '8px' }}>
             📈 Evolución Histórica por Quincena
           </div>
-          <div style={{ width: '100%', height: 110 }}>
+          <div style={{ width: '100%', height: 220 }}>
             <ResponsiveContainer>
-              <LineChart data={datosHistorial} margin={{ top: 5, right: 20, left: -15, bottom: 5 }}>
+              <LineChart data={datosHistorial} margin={{ top: 5, right: 20, left: -15, bottom: 0 }}>
                 <CartesianGrid strokeDasharray="3 3" stroke="#1e293b" />
-                <XAxis dataKey="periodo" stroke="#94a3b8" style={{ fontSize: '11px' }} />
+                <XAxis dataKey="periodo" angle={-45} textAnchor="end" height={45} stroke="#94a3b8" style={{ fontSize: '11px' }} />
                 <YAxis stroke="#64748b" style={{ fontSize: '11px' }} />
                 <Tooltip
                   contentStyle={{ backgroundColor: '#0f172a', border: '1px solid #334155', borderRadius: '8px', color: '#fff', fontSize: '12px' }}
