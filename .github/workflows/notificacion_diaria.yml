@@ -1,0 +1,26 @@
+name: Notificación Diaria de Turno
+
+on:
+  schedule:
+    # Las 15:00 UTC equivalen exactamente a las 12:00 PM (mediodía) de Argentina (UTC-3)
+    - cron: '0 15 * * *'
+  workflow_dispatch: # Esto te crea un botón en GitHub para probarlo manualmente cuando quieras
+
+jobs:
+  avisar_turno:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 1. Descargar el código del repositorio
+        uses: actions/checkout@v4
+
+      - name: 2. Instalar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: 3. Ejecutar el script de notificación
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: node notificar.js
