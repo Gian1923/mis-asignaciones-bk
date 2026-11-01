@@ -27,6 +27,7 @@ import {
 } from 'lucide-react';
 
 import datosPublicados from "./horariosPublicados.json";
+import EstadisticasEmpleado from './EstadisticasEmpleado';
 // ============================================================================
 // DATOS REALES EXTRAÍDOS DE LA PLANILLA: MARTES 03/11/2026 (Tienda 91 - BK)
 // ============================================================================
@@ -1435,7 +1436,11 @@ Si SÍ es una planilla de horarios, extrae:
                   </button>
                 </div>
               </div>
-
+              {/* GRÁFICOS Y ESTIMACIÓN DE SUELDO QUINCENAL */}
+              <EstadisticasEmpleado
+                quincenaActivaObj={quincenaActivaObj}
+                resumenQuincenasEmpleado={resumenQuincenasEmpleado}
+              />
               {/* DESGLOSE DÍA POR DÍA DE LA QUINCENA */}
               {mostrarDesgloseQuincena && (
                 <div className="space-y-2 pt-1">
