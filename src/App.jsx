@@ -28,6 +28,7 @@ import {
 
 import datosPublicados from "./horariosPublicados.json";
 import EstadisticasEmpleado from './EstadisticasEmpleado';
+import BorradorPlanilla from './BorradorPlanilla';
 // ============================================================================
 // DATOS REALES EXTRAÍDOS DE LA PLANILLA: MARTES 03/11/2026 (Tienda 91 - BK)
 // ============================================================================
@@ -393,6 +394,7 @@ export default function App() {
   const [filtroGrillaEstado, setFiltroGrillaEstado] = useState("todos");
   const [busquedaEnGrilla, setBusquedaEnGrilla] = useState("");
 
+  const [borradorPendiente, setBorradorPendiente] = useState(null);
   const [procesandoFotos, setProcesandoFotos] = useState(false);
   const [resultadosCargaIA, setResultadosCargaIA] = useState([]);
   const [customApiKey, setCustomApiKey] = useState(() => {
@@ -1009,40 +1011,12 @@ Si SÍ es una planilla de horarios, extrae:
               : []
           };
 
-          setPlanillas((prev) => {
-            const existeIdx = prev.findIndex((p) => p.id === idFecha);
-            let listaActualizada =
-              existeIdx >= 0
-                ? prev.map((item, idx) => (idx === existeIdx ? nuevaPlanilla : item))
-                : [...prev, nuevaPlanilla];
-
-            if (autoLimpiezaActiva) {
-              const vencidas = listaActualizada.filter(
-                (p) => calcularDiasDesdeFechaISO(p.fechaISO) > 7 && p.id !== idFecha
-              );
-              if (vencidas.length > 0) {
-                setHistorialQuincenas((histPrev) => {
-                  const copiaHist = { ...histPrev };
-                  vencidas.forEach((v) => {
-                    copiaHist[v.fechaISO] = consolidarPlanillaEnHistorial(
-                      v,
-                      "Auto-borrado semanal (>7 días)"
-                    );
-                  });
-                  return copiaHist;
-                });
-                listaActualizada = listaActualizada.filter(
-                  (p) => calcularDiasDesdeFechaISO(p.fechaISO) <= 7 || p.id === idFecha
-                );
-              }
-            }
-            return listaActualizada;
+          // Mandamos los datos al limbo (Borrador) en vez de guardarlos directo
+          setBorradorPendiente({
+            nuevaPlanilla: nuevaPlanilla,
+            idFecha: idFecha,
+            archivo: file
           });
-
-          const infoQ = obtenerClaveQuincena(idFecha);
-          if (infoQ) setQuincenaSeleccionadaId(infoQ.id);
-          setFechaGrillaSeleccionada(idFecha);
-          setDiaExpandido(idFecha);
 
           nuevosReportes.push({
             archivo: file.name,
@@ -1913,6 +1887,30 @@ Si SÍ es una planilla de horarios, extrae:
                   </div>
                 )}
               </div>
+              {borradorPendiente && (
+                <BorradorPlanilla 
+                  imagenUrl={URL.createObjectURL(borradorPendiente.archivo)} 
+                  datosExtraidosIA={borradorPendiente.nuevaPlanilla} 
+                  alGuardar={(datosCorregidos) => {
+                    // 1. Guardamos la planilla final corregida
+                    setPlanillas((prev) => {
+                      const existeIdx = prev.findIndex((p) => p.id === borradorPendiente.idFecha);
+                      return existeIdx >= 0
+                        ? prev.map((item, idx) => (idx === existeIdx ? datosCorregidos : item))
+                        : [...prev, datosCorregidos];
+                    });
+
+                    // 2. Actualizamos la interfaz
+                    const infoQ = obtenerClaveQuincena(borradorPendiente.idFecha);
+                    if (infoQ) setQuincenaSeleccionadaId(infoQ.id);
+                    setFechaGrillaSeleccionada(borradorPendiente.idFecha);
+                    setDiaExpandido(borradorPendiente.idFecha);
+
+                    // 3. Cerramos el borrador
+                    setBorradorPendiente(null);
+                  }} 
+                />
+              )}
 
               {resultadosCargaIA.length > 0 && (
                 <div className="space-y-2 pt-2">
