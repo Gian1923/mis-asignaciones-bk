@@ -26,6 +26,42 @@ import {
   ShieldCheck
 } from 'lucide-react';
 
+import materias from "./materias.json";
+
+function horaAMinutos(horaString) {
+  if (!horaString || !horaString.includes(":")) return null;
+  const partes = horaString.split(":");
+  const horas = parseInt(partes[0], 10);
+  const minutos = parseInt(partes[1], 10);
+  if (isNaN(horas) || isNaN(minutos)) return null;
+  return (horas * 60) + minutos;
+}
+
+function obtenerDiaSemana(item) {
+  const texto = String(item.fechaISO || item.fecha || "").toLowerCase();
+  // 1. Si el texto menciona el nombre del día (ej: "Lunes 02/11")
+  if (texto.includes("dom")) return 0;
+  if (texto.includes("lun")) return 1;
+  if (texto.includes("mar")) return 2;
+  if (texto.includes("mié") || texto.includes("mie")) return 3;
+  if (texto.includes("jue")) return 4;
+  if (texto.includes("vie")) return 5;
+  if (texto.includes("sáb") || texto.includes("sab")) return 6;
+
+  // 2. Si viene como YYYY-MM-DD (ej: "2026-11-02")
+  if (/^\d{4}-\d{2}-\d{2}/.test(texto)) {
+    return new Date(texto.slice(0, 10) + "T00:00:00").getDay();
+  }
+
+  // 3. Si viene como DD/MM/YYYY (ej: "02/11/2026")
+  const match = texto.match(/(\d{1,2})\/(\d{1,2})\/(\d{4})/);
+  if (match) {
+    const [, d, m, y] = match;
+    return new Date(`${y}-${m.padStart(2, "0")}-${d.padStart(2, "0")}T00:00:00`).getDay();
+  }
+  return null;
+}
+
 import datosPublicados from "./horariosPublicados.json";
 import EstadisticasEmpleado from './EstadisticasEmpleado';
 import BorradorPlanilla from './BorradorPlanilla';
@@ -1490,6 +1526,34 @@ Si SÍ es una planilla de horarios, extrae:
               {respuestaEmpleado.asignaciones.map((item) => {
                 const trabaja = item.trabaja === "Si";
                 const expandido = diaExpandido === item.idPlanilla;
+                // --- CÁLCULO DE CHOQUE CON MATERIAS ---
+                const materiasChocadas = [];
+                const legajoActual = String(respuestaEmpleado.legajo).trim();
+                const cursadaEmpleado = materias[legajoActual];
+
+                if (trabaja && cursadaEmpleado && item.horaEntrada && item.horaSalida) {
+                  const diaSemana = obtenerDiaSemana(item);
+                  let tim = horaAMinutos(item.horaEntrada);
+                  let tfm = horaAMinutos(item.horaSalida);
+
+                  if (diaSemana !== null && tim !== null && tfm !== null) {
+                    if (tim > tfm) tfm += 1440; // Parche trasnoche
+
+                    for (let i = 0; i < cursadaEmpleado.length; i++) {
+                      if (cursadaEmpleado[i].dia === diaSemana) {
+                        let cim = horaAMinutos(cursadaEmpleado[i].inicio);
+                        let cfm = horaAMinutos(cursadaEmpleado[i].fin);
+                        if (cim > cfm) cfm += 1440;
+
+                        if (!(tfm <= cim || cfm <= tim)) {
+                          materiasChocadas.push(
+                            `${cursadaEmpleado[i].materia} (${cursadaEmpleado[i].inicio} a ${cursadaEmpleado[i].fin})`
+                          );
+                        }
+                      }
+                    }
+                  }
+                }
 
                 return (
                   <div
@@ -1500,6 +1564,18 @@ Si SÍ es una planilla de horarios, extrae:
                         : "bg-slate-900/60 border-slate-800"
                     }`}
                   >
+                  {materiasChocadas.length > 0 && (
+                    <div className="bg-red-950/60 border-b border-red-500/40 px-4 py-2.5 text-xs text-red-200">
+                      <div className="font-bold text-red-400 flex items-center gap-1.5">
+                        <span>⚠️ ¡Choque con la Facultad!</span>
+                      </div>
+                      <ul className="list-disc list-inside mt-1 space-y-0.5 text-red-300">
+                        {materiasChocadas.map((choque, idx) => (
+                          <li key={idx}>{choque}</li>
+                        ))}
+                      </ul>
+                    </div>
+                  )}
                     <div
                       onClick={() =>
                         setDiaExpandido(expandido ? null : item.idPlanilla)

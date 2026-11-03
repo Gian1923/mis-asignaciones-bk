@@ -76,6 +76,7 @@ export default function BorradorPlanilla({ imagenUrl, datosExtraidosIA, alGuarda
         if (cursadaEmpleado[i].dia === diaSemanaTurno) {
           let cim = horaAMinutos(cursadaEmpleado[i].inicio);
           let cfm = horaAMinutos(cursadaEmpleado[i].fin);
+          if (cim > cfm) cfm += 1440;
 
           // Aplicamos la lógica inversa: si NO estamos a salvo, hay choque
           if (!(tfm <= cim || cfm <= tim)) {
