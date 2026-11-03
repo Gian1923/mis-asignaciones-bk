@@ -27,6 +27,7 @@ import {
 } from 'lucide-react';
 
 import materias from "./materias.json";
+import { Analytics } from "@vercel/analytics/react";
 
 function horaAMinutos(horaString) {
   if (!horaString || !horaString.includes(":")) return null;
@@ -2159,6 +2160,7 @@ Si SÍ es una planilla de horarios, extrae:
           </section>
         )}
       </main>
+      <Analytics />
     </div>
   );
 }
