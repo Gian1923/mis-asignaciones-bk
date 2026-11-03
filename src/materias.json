@@ -1,0 +1,46 @@
+{
+    "91149": [
+        {
+            "materia": "Ingenieria de requisitos",
+            "dia": 1,
+            "inicio": "18:30",
+            "fin": "20:30"
+        },
+        {
+            "materia": "Introduccion a la economia",
+            "dia": 1,
+            "inicio": "20:35",
+            "fin": "22:30"
+        },
+        {
+            "materia": "BBDD I",
+            "dia": 2,
+            "inicio": "18:00",
+            "fin": "22:00"
+        },
+        {
+            "materia": "Ingenieria de requisitos",
+            "dia": 3,
+            "inicio": "18:30",
+            "fin": "20:30"
+        },
+        {
+            "materia": "Introduccion a la economia",
+            "dia": 3,
+            "inicio": "20:35",
+            "fin": "22:30"
+        },
+        {
+            "materia": "Programacion I",
+            "dia": 4,
+            "inicio": "18:00",
+            "fin": "22:00"
+        },
+        {
+            "materia": "Herramientas Matematicas",
+            "dia": 5,
+            "inicio": "14:00",
+            "fin": "18:00"
+        }
+    ] 
+}
