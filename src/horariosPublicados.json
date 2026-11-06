@@ -706,9 +706,9 @@
     {
       "id": "2026-11-08",
       "fechaISO": "2026-11-08",
-      "fechaEtiqueta": "LUNES 09/11/2026",
+      "fechaEtiqueta": "DOMINGO 08/11/2026",
       "tienda": "91 - BK Fondo de la Legua",
-      "fechaImpresion": "06/11/26 15:23",
+      "fechaImpresion": "06/11/26 03:44",
       "version": "1",
       "esDemo": false,
       "horasTotalesPlanilla": 150,
@@ -1023,7 +1023,7 @@
         },
         {
           "legajo": "91335",
-          "nombre": "QUIAÃ'A,IARA AYLEN",
+          "nombre": "QUIAÑA,IARA AYLEN",
           "trabaja": "Off",
           "horaEntrada": " - ",
           "horaSalida": " - "
