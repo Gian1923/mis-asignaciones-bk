@@ -1,1062 +1,11 @@
 {
   "planillas": [
     {
-      "id": "2026-11-06",
-      "fechaISO": "2026-11-06",
-      "fechaEtiqueta": "VIERNES 06/11/2026",
-      "tienda": "91 - BK Fondo de la Legua",
-      "fechaImpresion": "01/11/26 08:13",
-      "version": "1",
-      "esDemo": false,
-      "horasTotalesPlanilla": 150,
-      "asignaciones": [
-        {
-          "legajo": "91325",
-          "nombre": "NUNEZ BECERRA,ARIADNA BELE",
-          "trabaja": "Si",
-          "horaEntrada": "06:00",
-          "horaSalida": "11:00"
-        },
-        {
-          "legajo": "91341",
-          "nombre": "PACCIONE MORAIS,BRUNO",
-          "trabaja": "Si",
-          "horaEntrada": "06:00",
-          "horaSalida": "11:00"
-        },
-        {
-          "legajo": "91356",
-          "nombre": "POMA PALOMINO,JHOSTIN FRA",
-          "trabaja": "Si",
-          "horaEntrada": "06:00",
-          "horaSalida": "10:30"
-        },
-        {
-          "legajo": "91203",
-          "nombre": "REYES,ORIANA JAEL",
-          "trabaja": "Si",
-          "horaEntrada": "06:00",
-          "horaSalida": "11:00"
-        },
-        {
-          "legajo": "91347",
-          "nombre": "GALLARDI,MICAELA AGUSTINA",
-          "trabaja": "Si",
-          "horaEntrada": "07:00",
-          "horaSalida": "12:00"
-        },
-        {
-          "legajo": "91385",
-          "nombre": "SANCHEZ,TOBIAS AGUSTIN",
-          "trabaja": "Si",
-          "horaEntrada": "08:00",
-          "horaSalida": "14:00"
-        },
-        {
-          "legajo": "91247",
-          "nombre": "LOBOS,LARA SABRINA",
-          "trabaja": "Si",
-          "horaEntrada": "08:30",
-          "horaSalida": "14:30"
-        },
-        {
-          "legajo": "91380",
-          "nombre": "VIGIL ESPEJO,JUAN FRANCISCO",
-          "trabaja": "Si",
-          "horaEntrada": "10:30",
-          "horaSalida": "14:30"
-        },
-        {
-          "legajo": "91124",
-          "nombre": "LEDESMA,BRUNO NAHUEL",
-          "trabaja": "Si",
-          "horaEntrada": "11:00",
-          "horaSalida": "16:00"
-        },
-        {
-          "legajo": "91387",
-          "nombre": "GIMENEZ,DYLAN JOEL",
-          "trabaja": "Si",
-          "horaEntrada": "11:00",
-          "horaSalida": "15:30"
-        },
-        {
-          "legajo": "91361",
-          "nombre": "PERALTA,EBER EZEQUIEL",
-          "trabaja": "Si",
-          "horaEntrada": "11:00",
-          "horaSalida": "16:00"
-        },
-        {
-          "legajo": "91303",
-          "nombre": "CARRION,GUADALUPE CELESTE",
-          "trabaja": "Si",
-          "horaEntrada": "12:00",
-          "horaSalida": "17:00"
-        },
-        {
-          "legajo": "91372",
-          "nombre": "GIMENEZ,ELIAN ALEXIS",
-          "trabaja": "Si",
-          "horaEntrada": "12:00",
-          "horaSalida": "17:00"
-        },
-        {
-          "legajo": "91382",
-          "nombre": "BOTTANI JEREZ,GENERO LUCA",
-          "trabaja": "Si",
-          "horaEntrada": "12:00",
-          "horaSalida": "17:00"
-        },
-        {
-          "legajo": "B12810",
-          "nombre": "MAIZ,LAUTARO ANDRES",
-          "trabaja": "Si",
-          "horaEntrada": "12:00",
-          "horaSalida": "18:00"
-        },
-        {
-          "legajo": "91244",
-          "nombre": "CARRION,LUCIANA AYLEN",
-          "trabaja": "Si",
-          "horaEntrada": "12:30",
-          "horaSalida": "18:30"
-        },
-        {
-          "legajo": "91322",
-          "nombre": "DE LA CONCEPCION,MARIANA A",
-          "trabaja": "Si",
-          "horaEntrada": "12:30",
-          "horaSalida": "17:30"
-        },
-        {
-          "legajo": "91389",
-          "nombre": "FOSSA LUCARELLA,TOMAS",
-          "trabaja": "Si",
-          "horaEntrada": "17:00",
-          "horaSalida": "23:00"
-        },
-        {
-          "legajo": "91335",
-          "nombre": "QUIA'A,IARA AYLEN",
-          "trabaja": "Si",
-          "horaEntrada": "17:00",
-          "horaSalida": "23:00"
-        },
-        {
-          "legajo": "91286",
-          "nombre": "GAUNA,JESICA CAROLINA",
-          "trabaja": "Si",
-          "horaEntrada": "17:00",
-          "horaSalida": "21:30"
-        },
-        {
-          "legajo": "91366",
-          "nombre": "ANDREOZZI,LUCIANA YAZMIN",
-          "trabaja": "Si",
-          "horaEntrada": "17:30",
-          "horaSalida": "22:30"
-        },
-        {
-          "legajo": "78184",
-          "nombre": "PAZ,CAROLINA NICOLE",
-          "trabaja": "Si",
-          "horaEntrada": "18:30",
-          "horaSalida": "23:00"
-        },
-        {
-          "legajo": "91344",
-          "nombre": "GAMBOA,LAUTARO DANIEL",
-          "trabaja": "Si",
-          "horaEntrada": "20:00",
-          "horaSalida": "00:00"
-        },
-        {
-          "legajo": "C12067",
-          "nombre": "RIEDEL,GUADALUPE MICAELA",
-          "trabaja": "Si",
-          "horaEntrada": "20:00",
-          "horaSalida": "00:00"
-        },
-        {
-          "legajo": "91337",
-          "nombre": "LEZCANO CABRERA,SOFIA ARAC",
-          "trabaja": "Si",
-          "horaEntrada": "20:00",
-          "horaSalida": "00:30"
-        },
-        {
-          "legajo": "91370",
-          "nombre": "ANFOSSO,TOBIAS",
-          "trabaja": "Si",
-          "horaEntrada": "20:00",
-          "horaSalida": "00:30"
-        },
-        {
-          "legajo": "91285",
-          "nombre": "LUQUE PACHELLI,ANDRES GABR",
-          "trabaja": "Si",
-          "horaEntrada": "20:30",
-          "horaSalida": "01:30"
-        },
-        {
-          "legajo": "91383",
-          "nombre": "RECARDO DIAZ,LUCAS",
-          "trabaja": "Si",
-          "horaEntrada": "20:30",
-          "horaSalida": "03:00"
-        },
-        {
-          "legajo": "91371",
-          "nombre": "AEL,FARID",
-          "trabaja": "Si",
-          "horaEntrada": "21:00",
-          "horaSalida": "04:00"
-        },
-        {
-          "legajo": "91334",
-          "nombre": "AZCONA,AGUSTINA LUZ",
-          "trabaja": "Si",
-          "horaEntrada": "00:00",
-          "horaSalida": "05:00"
-        },
-        {
-          "legajo": "91252",
-          "nombre": "JIMENEZ,GALA CAROLINA",
-          "trabaja": "Si",
-          "horaEntrada": "00:30",
-          "horaSalida": "07:00"
-        },
-        {
-          "legajo": "91368",
-          "nombre": "COLMAN,HAROLD TOBIAS",
-          "trabaja": "Si",
-          "horaEntrada": "00:30",
-          "horaSalida": "07:00"
-        },
-        {
-          "legajo": "43003",
-          "nombre": "CASTILLO,CAMILA NELIDA",
-          "trabaja": "Off",
-          "horaEntrada": "-",
-          "horaSalida": "-"
-        },
-        {
-          "legajo": "91321",
-          "nombre": "CUEVAS,LOURDES MARA",
-          "trabaja": "Off",
-          "horaEntrada": "-",
-          "horaSalida": "-"
-        },
-        {
-          "legajo": "91271",
-          "nombre": "MAIELLO ESCALONA,GIADA AND",
-          "trabaja": "Off",
-          "horaEntrada": "-",
-          "horaSalida": "-"
-        },
-        {
-          "legajo": "91277",
-          "nombre": "BARRIENTOS,SOFIA AILEN",
-          "trabaja": "Off",
-          "horaEntrada": "-",
-          "horaSalida": "-"
-        },
-        {
-          "legajo": "91362",
-          "nombre": "VILARNOVO,RODRIGO FAUSTO",
-          "trabaja": "Off",
-          "horaEntrada": "-",
-          "horaSalida": "-"
-        },
-        {
-          "legajo": "91266",
-          "nombre": "PIZARRO,VALENTINA ABRIL",
-          "trabaja": "Off",
-          "horaEntrada": "-",
-          "horaSalida": "-"
-        },
-        {
-          "legajo": "91309",
-          "nombre": "SILVA,ANA MICAELA",
-          "trabaja": "Off",
-          "horaEntrada": "-",
-          "horaSalida": "-"
-        },
-        {
-          "legajo": "91149",
-          "nombre": "HIGASHI ALEJOS,GIAN ALBERTO",
-          "trabaja": "Off",
-          "horaEntrada": "-",
-          "horaSalida": "-"
-        },
-        {
-          "legajo": "125033",
-          "nombre": "AGUIRRE,LUCIA VERONICA",
-          "trabaja": "Off",
-          "horaEntrada": "-",
-          "horaSalida": "-"
-        },
-        {
-          "legajo": "91388",
-          "nombre": "RAINIERI,SANTIAGO SALVADOR",
-          "trabaja": "Off",
-          "horaEntrada": "-",
-          "horaSalida": "-"
-        },
-        {
-          "legajo": "91390",
-          "nombre": "RECARDO DIAZ,SANTINO",
-          "trabaja": "Off",
-          "horaEntrada": "-",
-          "horaSalida": "-"
-        },
-        {
-          "legajo": "91349",
-          "nombre": "PEREZ,ARIANA IRIEL",
-          "trabaja": "Off",
-          "horaEntrada": "-",
-          "horaSalida": "-"
-        },
-        {
-          "legajo": "91351",
-          "nombre": "IRATO JIMENEZ,LOLA ALUHE",
-          "trabaja": "Off",
-          "horaEntrada": "-",
-          "horaSalida": "-"
-        },
-        {
-          "legajo": "91369",
-          "nombre": "GUARDERAS,ROCIO AYELEN",
-          "trabaja": "Off",
-          "horaEntrada": "-",
-          "horaSalida": "-"
-        },
-        {
-          "legajo": "91301",
-          "nombre": "PAESANO,TOMAS",
-          "trabaja": "Off",
-          "horaEntrada": "-",
-          "horaSalida": "-"
-        },
-        {
-          "legajo": "117122",
-          "nombre": "PUCCIO,GIAN ARIEL",
-          "trabaja": "Off",
-          "horaEntrada": "-",
-          "horaSalida": "-"
-        },
-        {
-          "legajo": "92366",
-          "nombre": "RABAZANO,LUNA ABIGAIL",
-          "trabaja": "Licencia por Re!",
-          "horaEntrada": "-",
-          "horaSalida": "-"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-07",
-      "fechaISO": "2026-11-07",
-      "fechaEtiqueta": "SABADO 07/11/2026",
-      "tienda": "91 - BK Fondo de la Legua",
-      "fechaImpresion": "03/11/26 01:43",
-      "version": "1",
-      "esDemo": false,
-      "horasTotalesPlanilla": 150,
-      "asignaciones": [
-        {
-          "legajo": "91356",
-          "nombre": "POMA PALOMINO,JHOSTIN FRANK",
-          "trabaja": "Si",
-          "horaEntrada": "06:00",
-          "horaSalida": "11:00"
-        },
-        {
-          "legajo": "91341",
-          "nombre": "PACCIONE MORAIS,BRUNO",
-          "trabaja": "Si",
-          "horaEntrada": "07:00",
-          "horaSalida": "11:30"
-        },
-        {
-          "legajo": "91322",
-          "nombre": "DE LA CONCEPCION,MARIANA ABRIL",
-          "trabaja": "Si",
-          "horaEntrada": "07:00",
-          "horaSalida": "11:00"
-        },
-        {
-          "legajo": "91369",
-          "nombre": "GUARDERAS,ROCIO AYELEN",
-          "trabaja": "Si",
-          "horaEntrada": "07:00",
-          "horaSalida": "12:00"
-        },
-        {
-          "legajo": "91347",
-          "nombre": "GALLARDI,MICAELA AGUSTINA",
-          "trabaja": "Si",
-          "horaEntrada": "08:00",
-          "horaSalida": "13:00"
-        },
-        {
-          "legajo": "91385",
-          "nombre": "SANCHEZ,TOBIAS AGUSTIN",
-          "trabaja": "Si",
-          "horaEntrada": "08:00",
-          "horaSalida": "14:30"
-        },
-        {
-          "legajo": "91247",
-          "nombre": "LOBOS,LARA SABRINA",
-          "trabaja": "Si",
-          "horaEntrada": "09:30",
-          "horaSalida": "14:30"
-        },
-        {
-          "legajo": "91124",
-          "nombre": "LEDESMA,BRUNO NAHUEL",
-          "trabaja": "Si",
-          "horaEntrada": "11:00",
-          "horaSalida": "15:00"
-        },
-        {
-          "legajo": "91361",
-          "nombre": "PERALTA,EBER EZEQUIEL",
-          "trabaja": "Si",
-          "horaEntrada": "11:00",
-          "horaSalida": "15:00"
-        },
-        {
-          "legajo": "91382",
-          "nombre": "BOTTANI JEREZ,GENERO LUCA",
-          "trabaja": "Si",
-          "horaEntrada": "11:30",
-          "horaSalida": "16:00"
-        },
-        {
-          "legajo": "91325",
-          "nombre": "NUNEZ BECERRA,ARIADNA BELEN",
-          "trabaja": "Si",
-          "horaEntrada": "12:00",
-          "horaSalida": "16:00"
-        },
-        {
-          "legajo": "91335",
-          "nombre": "QUIA'A,IARA AYLEN",
-          "trabaja": "Si",
-          "horaEntrada": "12:00",
-          "horaSalida": "17:00"
-        },
-        {
-          "legajo": "125033",
-          "nombre": "AGUIRRE,LUCIA VERONICA",
-          "trabaja": "Si",
-          "horaEntrada": "12:00",
-          "horaSalida": "18:00"
-        },
-        {
-          "legajo": "C12067",
-          "nombre": "RIEDEL,GUADALUPE MICAELA",
-          "trabaja": "Si",
-          "horaEntrada": "12:00",
-          "horaSalida": "16:00"
-        },
-        {
-          "legajo": "91372",
-          "nombre": "GIMENEZ,ELIAN ALEXIS",
-          "trabaja": "Si",
-          "horaEntrada": "12:30",
-          "horaSalida": "17:30"
-        },
-        {
-          "legajo": "91351",
-          "nombre": "IRATO JIMENEZ,LOLA ALUHE",
-          "trabaja": "Si",
-          "horaEntrada": "12:30",
-          "horaSalida": "19:00"
-        },
-        {
-          "legajo": "91390",
-          "nombre": "RECARDO DIAZ,SANTINO",
-          "trabaja": "Si",
-          "horaEntrada": "13:00",
-          "horaSalida": "18:00"
-        },
-        {
-          "legajo": "91366",
-          "nombre": "ANDREOZZI,LUCIANA YAZMIN",
-          "trabaja": "Si",
-          "horaEntrada": "14:30",
-          "horaSalida": "20:30"
-        },
-        {
-          "legajo": "91387",
-          "nombre": "GIMENEZ,DYLAN JOEL",
-          "trabaja": "Si",
-          "horaEntrada": "17:00",
-          "horaSalida": "22:00"
-        },
-        {
-          "legajo": "91371",
-          "nombre": "AEL,FARID",
-          "trabaja": "Si",
-          "horaEntrada": "18:00",
-          "horaSalida": "23:00"
-        },
-        {
-          "legajo": "91149",
-          "nombre": "HIGASHI ALEJOS,GIAN ALBERTO",
-          "trabaja": "Si",
-          "horaEntrada": "18:00",
-          "horaSalida": "22:30"
-        },
-        {
-          "legajo": "91368",
-          "nombre": "COLMAN,HAROLD TOBIAS",
-          "trabaja": "Si",
-          "horaEntrada": "19:00",
-          "horaSalida": "01:00"
-        },
-        {
-          "legajo": "91252",
-          "nombre": "JIMENEZ,GALA CAROLINA",
-          "trabaja": "Si",
-          "horaEntrada": "19:30",
-          "horaSalida": "23:30"
-        },
-        {
-          "legajo": "91285",
-          "nombre": "LUQUE PACHELLI,ANDRES GABRIEL",
-          "trabaja": "Si",
-          "horaEntrada": "20:00",
-          "horaSalida": "01:00"
-        },
-        {
-          "legajo": "91383",
-          "nombre": "RECARDO DIAZ,LUCAS",
-          "trabaja": "Si",
-          "horaEntrada": "20:00",
-          "horaSalida": "00:30"
-        },
-        {
-          "legajo": "91277",
-          "nombre": "BARRIENTOS,SOFIA AILEN",
-          "trabaja": "Si",
-          "horaEntrada": "20:00",
-          "horaSalida": "01:00"
-        },
-        {
-          "legajo": "91349",
-          "nombre": "PEREZ,ARIANA IRIEL",
-          "trabaja": "Si",
-          "horaEntrada": "20:00",
-          "horaSalida": "00:00"
-        },
-        {
-          "legajo": "91389",
-          "nombre": "FOSSA LUCARELLA,TOMAS",
-          "trabaja": "Si",
-          "horaEntrada": "20:30",
-          "horaSalida": "01:30"
-        },
-        {
-          "legajo": "91337",
-          "nombre": "LEZCANO CABRERA,SOFIA ARACELI",
-          "trabaja": "Si",
-          "horaEntrada": "20:30",
-          "horaSalida": "03:00"
-        },
-        {
-          "legajo": "91370",
-          "nombre": "ANFOSSO,TOBIAS",
-          "trabaja": "Si",
-          "horaEntrada": "20:30",
-          "horaSalida": "04:00"
-        },
-        {
-          "legajo": "91334",
-          "nombre": "AZCONA,AGUSTINA LUZ",
-          "trabaja": "Si",
-          "horaEntrada": "00:00",
-          "horaSalida": "05:00"
-        },
-        {
-          "legajo": "91271",
-          "nombre": "MAIELLO ESCALONA,GIADA ANDREA",
-          "trabaja": "Si",
-          "horaEntrada": "01:00",
-          "horaSalida": "07:00"
-        },
-        {
-          "legajo": "91266",
-          "nombre": "PIZARRO,VALENTINA ABRIL",
-          "trabaja": "Si",
-          "horaEntrada": "01:00",
-          "horaSalida": "07:00"
-        },
-        {
-          "legajo": "43003",
-          "nombre": "CASTILLO,CAMILA NELIDA",
-          "trabaja": "Off",
-          "horaEntrada": "- ",
-          "horaSalida": "- "
-        },
-        {
-          "legajo": "91321",
-          "nombre": "CUEVAS,LOURDES MARA",
-          "trabaja": "Off",
-          "horaEntrada": "- ",
-          "horaSalida": "- "
-        },
-        {
-          "legajo": "91380",
-          "nombre": "VIGIL ESPEJO,JUAN FRANCISCO",
-          "trabaja": "Off",
-          "horaEntrada": "- ",
-          "horaSalida": "- "
-        },
-        {
-          "legajo": "91303",
-          "nombre": "CARRION,GUADALUPE CELESTE",
-          "trabaja": "Off",
-          "horaEntrada": "- ",
-          "horaSalida": "- "
-        },
-        {
-          "legajo": "91362",
-          "nombre": "VILARNOVO,RODRIGO FAUSTO",
-          "trabaja": "Off",
-          "horaEntrada": "- ",
-          "horaSalida": "- "
-        },
-        {
-          "legajo": "91344",
-          "nombre": "GAMBOA,LAUTARO DANIEL",
-          "trabaja": "Off",
-          "horaEntrada": "- ",
-          "horaSalida": "- "
-        },
-        {
-          "legajo": "91309",
-          "nombre": "SILVA,ANA MICAELA",
-          "trabaja": "Off",
-          "horaEntrada": "- ",
-          "horaSalida": "- "
-        },
-        {
-          "legajo": "78184",
-          "nombre": "PAZ,CAROLINA NICOLE",
-          "trabaja": "Off",
-          "horaEntrada": "- ",
-          "horaSalida": "- "
-        },
-        {
-          "legajo": "91203",
-          "nombre": "REYES,ORIANA JAEL",
-          "trabaja": "Off",
-          "horaEntrada": "- ",
-          "horaSalida": "- "
-        },
-        {
-          "legajo": "91286",
-          "nombre": "GAUNA,JESICA CAROLINA",
-          "trabaja": "Off",
-          "horaEntrada": "- ",
-          "horaSalida": "- "
-        },
-        {
-          "legajo": "91388",
-          "nombre": "RAINIERI,SANTIAGO SALVADOR",
-          "trabaja": "Off",
-          "horaEntrada": "- ",
-          "horaSalida": "- "
-        },
-        {
-          "legajo": "91244",
-          "nombre": "CARRION,LUCIANA AYLEN",
-          "trabaja": "Off",
-          "horaEntrada": "- ",
-          "horaSalida": "- "
-        },
-        {
-          "legajo": "91301",
-          "nombre": "PAESANO,TOMAS",
-          "trabaja": "Off",
-          "horaEntrada": "- ",
-          "horaSalida": "- "
-        },
-        {
-          "legajo": "117122",
-          "nombre": "PUCCIO,GIAN ARIEL",
-          "trabaja": "Off",
-          "horaEntrada": "- ",
-          "horaSalida": "- "
-        },
-        {
-          "legajo": "92366",
-          "nombre": "RABAZANO,LUNA ABIGAIL",
-          "trabaja": "Licencia por Re:",
-          "horaEntrada": "- ",
-          "horaSalida": "- "
-        }
-      ]
-    },
-    {
-      "id": "2026-11-08",
-      "fechaISO": "2026-11-08",
-      "fechaEtiqueta": "DOMINGO 08/11/2026",
-      "tienda": "91 - BK Fondo de la Legua",
-      "fechaImpresion": "06/11/26 03:44",
-      "version": "1",
-      "esDemo": false,
-      "horasTotalesPlanilla": 150,
-      "asignaciones": [
-        {
-          "legajo": "91301",
-          "nombre": "PAESANO,TOMAS",
-          "trabaja": "Si",
-          "horaEntrada": "06:30",
-          "horaSalida": "11:30"
-        },
-        {
-          "legajo": "91325",
-          "nombre": "NUNEZ BECERRA,ARIADNA BELEN",
-          "trabaja": "Si",
-          "horaEntrada": "07:00",
-          "horaSalida": "11:00"
-        },
-        {
-          "legajo": "91372",
-          "nombre": "GIMENEZ,ELIAN ALEXIS",
-          "trabaja": "Si",
-          "horaEntrada": "07:00",
-          "horaSalida": "11:00"
-        },
-        {
-          "legajo": "91203",
-          "nombre": "REYES,ORIANA JAEL",
-          "trabaja": "Si",
-          "horaEntrada": "07:00",
-          "horaSalida": "11:30"
-        },
-        {
-          "legajo": "91341",
-          "nombre": "PACCIONE MORAIS,BRUNO",
-          "trabaja": "Si",
-          "horaEntrada": "08:30",
-          "horaSalida": "14:30"
-        },
-        {
-          "legajo": "91387",
-          "nombre": "GIMENEZ,DYLAN JOEL",
-          "trabaja": "Si",
-          "horaEntrada": "11:00",
-          "horaSalida": "15:00"
-        },
-        {
-          "legajo": "91322",
-          "nombre": "DE LA CONCEPCION,MARIANA ABRIL",
-          "trabaja": "Si",
-          "horaEntrada": "11:00",
-          "horaSalida": "15:00"
-        },
-        {
-          "legajo": "91347",
-          "nombre": "GALLARDI,MICAELA AGUSTINA",
-          "trabaja": "Si",
-          "horaEntrada": "11:00",
-          "horaSalida": "15:00"
-        },
-        {
-          "legajo": "91356",
-          "nombre": "POMA PALOMINO,JHOSTIN FRANK",
-          "trabaja": "Si",
-          "horaEntrada": "11:30",
-          "horaSalida": "16:00"
-        },
-        {
-          "legajo": "91369",
-          "nombre": "GUARDERAS,ROCIO AYELEN",
-          "trabaja": "Si",
-          "horaEntrada": "11:30",
-          "horaSalida": "15:30"
-        },
-        {
-          "legajo": "91362",
-          "nombre": "VILARNOVO,RODRIGO FAUSTO",
-          "trabaja": "Si",
-          "horaEntrada": "12:00",
-          "horaSalida": "16:00"
-        },
-        {
-          "legajo": "91366",
-          "nombre": "ANDREOZZI,LUCIANA YAZMIN",
-          "trabaja": "Si",
-          "horaEntrada": "12:30",
-          "horaSalida": "17:30"
-        },
-        {
-          "legajo": "78184",
-          "nombre": "PAZ,CAROLINA NICOLE",
-          "trabaja": "Si",
-          "horaEntrada": "13:00",
-          "horaSalida": "18:00"
-        },
-        {
-          "legajo": "91385",
-          "nombre": "SANCHEZ,TOBIAS AGUSTIN",
-          "trabaja": "Si",
-          "horaEntrada": "13:00",
-          "horaSalida": "18:00"
-        },
-        {
-          "legajo": "91368",
-          "nombre": "COLMAN,HAROLD TOBIAS",
-          "trabaja": "Si",
-          "horaEntrada": "15:00",
-          "horaSalida": "19:00"
-        },
-        {
-          "legajo": "91390",
-          "nombre": "RECARDO DIAZ,SANTINO",
-          "trabaja": "Si",
-          "horaEntrada": "15:00",
-          "horaSalida": "19:00"
-        },
-        {
-          "legajo": "91344",
-          "nombre": "GAMBOA,LAUTARO DANIEL",
-          "trabaja": "Si",
-          "horaEntrada": "17:30",
-          "horaSalida": "22:30"
-        },
-        {
-          "legajo": "91334",
-          "nombre": "AZCONA,AGUSTINA LUZ",
-          "trabaja": "Si",
-          "horaEntrada": "18:00",
-          "horaSalida": "23:00"
-        },
-        {
-          "legajo": "91252",
-          "nombre": "JIMENEZ,GALA CAROLINA",
-          "trabaja": "Si",
-          "horaEntrada": "18:00",
-          "horaSalida": "23:00"
-        },
-        {
-          "legajo": "91286",
-          "nombre": "GAUNA,JESICA CAROLINA",
-          "trabaja": "Si",
-          "horaEntrada": "19:00",
-          "horaSalida": "23:00"
-        },
-        {
-          "legajo": "91351",
-          "nombre": "IRATO JIMENEZ,LOLA ALUHE",
-          "trabaja": "Si",
-          "horaEntrada": "19:00",
-          "horaSalida": "23:30"
-        },
-        {
-          "legajo": "91380",
-          "nombre": "VIGIL ESPEJO,JUAN FRANCISCO",
-          "trabaja": "Si",
-          "horaEntrada": "19:30",
-          "horaSalida": "23:30"
-        },
-        {
-          "legajo": "91371",
-          "nombre": "AEL,FARID",
-          "trabaja": "Si",
-          "horaEntrada": "20:00",
-          "horaSalida": "00:00"
-        },
-        {
-          "legajo": "91277",
-          "nombre": "BARRIENTOS,SOFIA AILEN",
-          "trabaja": "Si",
-          "horaEntrada": "20:00",
-          "horaSalida": "00:00"
-        },
-        {
-          "legajo": "91389",
-          "nombre": "FOSSA LUCARELLA,TOMAS",
-          "trabaja": "Si",
-          "horaEntrada": "20:30",
-          "horaSalida": "01:30"
-        },
-        {
-          "legajo": "91149",
-          "nombre": "HIGASHI ALEJOS,GIAN ALBERTO",
-          "trabaja": "Si",
-          "horaEntrada": "21:00",
-          "horaSalida": "02:00"
-        },
-        {
-          "legajo": "91388",
-          "nombre": "RAINIERI,SANTIAGO SALVADOR",
-          "trabaja": "Si",
-          "horaEntrada": "23:00",
-          "horaSalida": "04:00"
-        },
-        {
-          "legajo": "91266",
-          "nombre": "PIZARRO,VALENTINA ABRIL",
-          "trabaja": "Si",
-          "horaEntrada": "23:00",
-          "horaSalida": "04:00"
-        },
-        {
-          "legajo": "91337",
-          "nombre": "LEZCANO CABRERA,SOFIA ARACELI",
-          "trabaja": "Si",
-          "horaEntrada": "23:30",
-          "horaSalida": "04:00"
-        },
-        {
-          "legajo": "91349",
-          "nombre": "PEREZ,ARIANA IRIEL",
-          "trabaja": "Si",
-          "horaEntrada": "23:30",
-          "horaSalida": "04:00"
-        },
-        {
-          "legajo": "91124",
-          "nombre": "LEDESMA,BRUNO NAHUEL",
-          "trabaja": "Off",
-          "horaEntrada": " - ",
-          "horaSalida": " - "
-        },
-        {
-          "legajo": "43003",
-          "nombre": "CASTILLO,CAMILA NELIDA",
-          "trabaja": "Off",
-          "horaEntrada": " - ",
-          "horaSalida": " - "
-        },
-        {
-          "legajo": "91321",
-          "nombre": "CUEVAS,LOURDES MARA",
-          "trabaja": "Off",
-          "horaEntrada": " - ",
-          "horaSalida": " - "
-        },
-        {
-          "legajo": "91271",
-          "nombre": "MAIELLO ESCALONA,GIADA ANDREA",
-          "trabaja": "Off",
-          "horaEntrada": " - ",
-          "horaSalida": " - "
-        },
-        {
-          "legajo": "91382",
-          "nombre": "BOTTANI JEREZ,GENERO LUCA",
-          "trabaja": "Off",
-          "horaEntrada": " - ",
-          "horaSalida": " - "
-        },
-        {
-          "legajo": "91303",
-          "nombre": "CARRION,GUADALUPE CELESTE",
-          "trabaja": "Off",
-          "horaEntrada": " - ",
-          "horaSalida": " - "
-        },
-        {
-          "legajo": "91361",
-          "nombre": "PERALTA,EBER EZEQUIEL",
-          "trabaja": "Off",
-          "horaEntrada": " - ",
-          "horaSalida": " - "
-        },
-        {
-          "legajo": "91383",
-          "nombre": "RECARDO DIAZ,LUCAS",
-          "trabaja": "Off",
-          "horaEntrada": " - ",
-          "horaSalida": " - "
-        },
-        {
-          "legajo": "91247",
-          "nombre": "LOBOS,LARA SABRINA",
-          "trabaja": "Off",
-          "horaEntrada": " - ",
-          "horaSalida": " - "
-        },
-        {
-          "legajo": "91309",
-          "nombre": "SILVA,ANA MICAELA",
-          "trabaja": "Off",
-          "horaEntrada": " - ",
-          "horaSalida": " - "
-        },
-        {
-          "legajo": "91285",
-          "nombre": "LUQUE PACHELLI,ANDRES GABRIEL",
-          "trabaja": "Off",
-          "horaEntrada": " - ",
-          "horaSalida": " - "
-        },
-        {
-          "legajo": "125033",
-          "nombre": "AGUIRRE,LUCIA VERONICA",
-          "trabaja": "Off",
-          "horaEntrada": " - ",
-          "horaSalida": " - "
-        },
-        {
-          "legajo": "C12067",
-          "nombre": "RIEDEL,GUADALUPE MICAELA",
-          "trabaja": "Off",
-          "horaEntrada": " - ",
-          "horaSalida": " - "
-        },
-        {
-          "legajo": "91244",
-          "nombre": "CARRION,LUCIANA AYLEN",
-          "trabaja": "Off",
-          "horaEntrada": " - ",
-          "horaSalida": " - "
-        },
-        {
-          "legajo": "91335",
-          "nombre": "QUIAÑA,IARA AYLEN",
-          "trabaja": "Off",
-          "horaEntrada": " - ",
-          "horaSalida": " - "
-        },
-        {
-          "legajo": "91370",
-          "nombre": "ANFOSSO,TOBIAS",
-          "trabaja": "Off",
-          "horaEntrada": " - ",
-          "horaSalida": " - "
-        },
-        {
-          "legajo": "117122",
-          "nombre": "PUCCIO,GIAN ARIEL",
-          "trabaja": "Off",
-          "horaEntrada": " - ",
-          "horaSalida": " - "
-        },
-        {
-          "legajo": "92366",
-          "nombre": "RABAZANO,LUNA ABIGAIL",
-          "trabaja": "Licencia por Re:",
-          "horaEntrada": " - ",
-          "horaSalida": " - "
-        }
-      ]
-    },
-    {
       "id": "2026-11-10",
       "fechaISO": "2026-11-10",
       "fechaEtiqueta": "MARTES 10/11/2026",
       "tienda": "91 - BK Fondo de la Legua",
-      "fechaImpresion": "06/11/26 03:49",
+      "fechaImpresion": "09/11/26 13:29",
       "version": "1",
       "esDemo": false,
       "horasTotalesPlanilla": 150,
@@ -1076,8 +25,8 @@
           "horaSalida": "11:00"
         },
         {
-          "legajo": "125033",
-          "nombre": "AGUIRRE,LUCIA VERONICA",
+          "legajo": "91203",
+          "nombre": "REYES,ORIANA JAEL",
           "trabaja": "Si",
           "horaEntrada": "06:00",
           "horaSalida": "11:00"
@@ -1272,6 +221,13 @@
           "horaSalida": "04:00"
         },
         {
+          "legajo": "125033",
+          "nombre": "AGUIRRE,LUCIA VERONICA",
+          "trabaja": "Si",
+          "horaEntrada": "00:00",
+          "horaSalida": "04:00"
+        },
+        {
           "legajo": "91266",
           "nombre": "PIZARRO,VALENTINA ABRIL",
           "trabaja": "Si",
@@ -1289,113 +245,106 @@
           "legajo": "43003",
           "nombre": "CASTILLO,CAMILA NELIDA",
           "trabaja": "Off",
-          "horaEntrada": " - ",
-          "horaSalida": " - "
+          "horaEntrada": "-",
+          "horaSalida": " -"
         },
         {
           "legajo": "91321",
           "nombre": "CUEVAS,LOURDES MARA",
           "trabaja": "Off",
-          "horaEntrada": " - ",
-          "horaSalida": " - "
+          "horaEntrada": "-",
+          "horaSalida": " -"
         },
         {
           "legajo": "91382",
           "nombre": "BOTTANI JEREZ,GENERO LUCA",
           "trabaja": "Off",
-          "horaEntrada": " - ",
-          "horaSalida": " - "
+          "horaEntrada": "-",
+          "horaSalida": " -"
         },
         {
           "legajo": "91303",
           "nombre": "CARRION,GUADALUPE CELESTE",
           "trabaja": "Off",
-          "horaEntrada": " - ",
-          "horaSalida": " - "
+          "horaEntrada": "-",
+          "horaSalida": " -"
         },
         {
           "legajo": "91344",
           "nombre": "GAMBOA,LAUTARO DANIEL",
           "trabaja": "Off",
-          "horaEntrada": " - ",
-          "horaSalida": " - "
+          "horaEntrada": "-",
+          "horaSalida": " -"
         },
         {
           "legajo": "91309",
           "nombre": "SILVA,ANA MICAELA",
           "trabaja": "Off",
-          "horaEntrada": " - ",
-          "horaSalida": " - "
-        },
-        {
-          "legajo": "91203",
-          "nombre": "REYES,ORIANA JAEL",
-          "trabaja": "Off",
-          "horaEntrada": " - ",
-          "horaSalida": " - "
+          "horaEntrada": "-",
+          "horaSalida": " -"
         },
         {
           "legajo": "91286",
           "nombre": "GAUNA,JESICA CAROLINA",
           "trabaja": "Off",
-          "horaEntrada": " - ",
-          "horaSalida": " - "
+          "horaEntrada": "-",
+          "horaSalida": " -"
         },
         {
           "legajo": "91149",
           "nombre": "HIGASHI ALEJOS,GIAN ALBERTO",
           "trabaja": "Off",
-          "horaEntrada": " - ",
-          "horaSalida": " - "
+          "horaEntrada": "-",
+          "horaSalida": " -"
         },
         {
           "legajo": "91387",
           "nombre": "GIMENEZ,DYLAN JOEL",
           "trabaja": "Off",
-          "horaEntrada": " - ",
-          "horaSalida": " - "
+          "horaEntrada": "-",
+          "horaSalida": " -"
         },
         {
           "legajo": "91389",
           "nombre": "FOSSA LUCARELLA,TOMAS",
           "trabaja": "Off",
-          "horaEntrada": " - ",
-          "horaSalida": " - "
+          "horaEntrada": "-",
+          "horaSalida": " -"
         },
         {
           "legajo": "C12067",
           "nombre": "RIEDEL,GUADALUPE MICAELA",
           "trabaja": "Off",
-          "horaEntrada": " - ",
-          "horaSalida": " - "
+          "horaEntrada": "-",
+          "horaSalida": " -"
         },
         {
           "legajo": "91369",
           "nombre": "GUARDERAS,ROCIO AYELEN",
           "trabaja": "Off",
-          "horaEntrada": " - ",
-          "horaSalida": " - "
+          "horaEntrada": "-",
+          "horaSalida": " -"
         },
         {
           "legajo": "91370",
           "nombre": "ANFOSSO,TOBIAS",
           "trabaja": "Off",
-          "horaEntrada": " - ",
-          "horaSalida": " - "
+          "horaEntrada": "-",
+          "horaSalida": " -"
         },
         {
           "legajo": "117122",
           "nombre": "PUCCIO,GIAN ARIEL",
           "trabaja": "Off",
-          "horaEntrada": " - ",
-          "horaSalida": " - "
+          "horaEntrada": "-",
+          "horaSalida": " -"
         },
         {
           "legajo": "92366",
           "nombre": "RABAZANO,LUNA ABIGAIL",
-          "trabaja": "Licencia por Re:",
-          "horaEntrada": " - ",
-          "horaSalida": " - "
+          "trabaja": "Licencia por Reserva de puesto",
+          "horaEntrada": "-",
+          "horaSalida": " -"
         }
       ]
     },
@@ -1403,8 +352,8 @@
       "id": "2026-11-11",
       "fechaISO": "2026-11-11",
       "fechaEtiqueta": "MIERCOLES 11/11/2026",
-      "tienda": "91 - BK Fondo de La Legua",
-      "fechaImpresion": "06/11/26 15:54",
+      "tienda": "91 - BK Fondo de la Legua",
+      "fechaImpresion": "09/11/26 15:59",
       "version": "1",
       "esDemo": false,
       "horasTotalesPlanilla": 150,
@@ -1413,15 +362,15 @@
           "legajo": "91356",
           "nombre": "POMA PALOMINO,JHOSTIN FRANK",
           "trabaja": "Si",
-          "horaEntrada": "08:00",
-          "horaSalida": "12:00"
+          "horaEntrada": "07:30",
+          "horaSalida": "11:30"
         },
         {
           "legajo": "91301",
           "nombre": "PAESANO,TOMAS",
           "trabaja": "Si",
-          "horaEntrada": "08:00",
-          "horaSalida": "12:00"
+          "horaEntrada": "07:30",
+          "horaSalida": "11:30"
         },
         {
           "legajo": "91325",
@@ -1463,7 +412,14 @@
           "nombre": "LOBOS,LARA SABRINA",
           "trabaja": "Si",
           "horaEntrada": "11:00",
-          "horaSalida": "17:00"
+          "horaSalida": "16:00"
+        },
+        {
+          "legajo": "91244",
+          "nombre": "CARRION,LUCIANA AYLEN",
+          "trabaja": "Si",
+          "horaEntrada": "13:00",
+          "horaSalida": "20:30"
         },
         {
           "legajo": "91347",
@@ -1471,13 +427,6 @@
           "trabaja": "Si",
           "horaEntrada": "13:00",
           "horaSalida": "19:00"
-        },
-        {
-          "legajo": "91244",
-          "nombre": "CARRION,LUCIANA AYLEN",
-          "trabaja": "Si",
-          "horaEntrada": "14:00",
-          "horaSalida": "21:30"
         },
         {
           "legajo": "91366",
@@ -1515,11 +464,11 @@
           "horaSalida": "00:00"
         },
         {
-          "legajo": "91349",
-          "nombre": "PEREZ,ARIANA IRIEL",
+          "legajo": "91285",
+          "nombre": "LUQUE PACHELLI,ANDRES GABRIEL",
           "trabaja": "Si",
-          "horaEntrada": "20:00",
-          "horaSalida": "02:00"
+          "horaEntrada": "20:30",
+          "horaSalida": "04:00"
         },
         {
           "legajo": "91252",
@@ -1529,11 +478,11 @@
           "horaSalida": "04:00"
         },
         {
-          "legajo": "91285",
-          "nombre": "LUQUE PACHELLI,ANDRES GABRIEL",
+          "legajo": "91349",
+          "nombre": "PEREZ,ARIANA IRIEL",
           "trabaja": "Si",
           "horaEntrada": "21:00",
-          "horaSalida": "04:00"
+          "horaSalida": "02:00"
         },
         {
           "legajo": "91124",
@@ -1550,200 +499,207 @@
           "horaSalida": "04:00"
         },
         {
+          "legajo": "B12810",
+          "nombre": "MAIZ,LAUTARO ANDRES",
+          "trabaja": "Si",
+          "horaEntrada": "00:00",
+          "horaSalida": "04:00"
+        },
+        {
           "legajo": "43003",
           "nombre": "CASTILLO,CAMILA NELIDA",
           "trabaja": "Off",
-          "horaEntrada": "_",
-          "horaSalida": "_"
+          "horaEntrada": "-",
+          "horaSalida": "-\r\n"
         },
         {
           "legajo": "91321",
           "nombre": "CUEVAS,LOURDES MARA",
           "trabaja": "Off",
-          "horaEntrada": "_",
-          "horaSalida": "_"
+          "horaEntrada": "-",
+          "horaSalida": "-\r\n"
         },
         {
           "legajo": "91322",
           "nombre": "DE LA CONCEPCION,MARIANA ABRIL",
           "trabaja": "Off",
-          "horaEntrada": "_",
-          "horaSalida": "_"
+          "horaEntrada": "-",
+          "horaSalida": "-\r\n"
         },
         {
           "legajo": "91277",
           "nombre": "BARRIENTOS,SOFIA AILEN",
           "trabaja": "Off",
-          "horaEntrada": "_",
-          "horaSalida": "_"
+          "horaEntrada": "-",
+          "horaSalida": "-\r\n"
         },
         {
           "legajo": "91380",
           "nombre": "VIGIL ESPEJO,JUAN FRANCISCO",
           "trabaja": "Off",
-          "horaEntrada": "_",
-          "horaSalida": "_"
+          "horaEntrada": "-",
+          "horaSalida": "-\r\n"
         },
         {
           "legajo": "91362",
           "nombre": "VILARNOVO,RODRIGO FAUSTO",
           "trabaja": "Off",
-          "horaEntrada": "_",
-          "horaSalida": "_"
+          "horaEntrada": "-",
+          "horaSalida": "-\r\n"
         },
         {
           "legajo": "91361",
           "nombre": "PERALTA,EBER EZEQUIEL",
           "trabaja": "Off",
-          "horaEntrada": "_",
-          "horaSalida": "_"
+          "horaEntrada": "-",
+          "horaSalida": "-\r\n"
         },
         {
           "legajo": "91383",
           "nombre": "RECARDO DIAZ,LUCAS",
           "trabaja": "Off",
-          "horaEntrada": "_",
-          "horaSalida": "_"
+          "horaEntrada": "-",
+          "horaSalida": "-\r\n"
         },
         {
           "legajo": "91341",
           "nombre": "PACCIONE MORAIS,BRUNO",
           "trabaja": "Off",
-          "horaEntrada": "_",
-          "horaSalida": "_"
+          "horaEntrada": "-",
+          "horaSalida": "-\r\n"
         },
         {
           "legajo": "91266",
           "nombre": "PIZARRO,VALENTINA ABRIL",
           "trabaja": "Off",
-          "horaEntrada": "_",
-          "horaSalida": "_"
+          "horaEntrada": "-",
+          "horaSalida": "-\r\n"
         },
         {
           "legajo": "91344",
           "nombre": "GAMBOA,LAUTARO DANIEL",
           "trabaja": "Off",
-          "horaEntrada": "_",
-          "horaSalida": "_"
+          "horaEntrada": "-",
+          "horaSalida": "-\r\n"
         },
         {
           "legajo": "91309",
           "nombre": "SILVA,ANA MICAELA",
           "trabaja": "Off",
-          "horaEntrada": "_",
-          "horaSalida": "_"
+          "horaEntrada": "-",
+          "horaSalida": "-\r\n"
         },
         {
           "legajo": "78184",
           "nombre": "PAZ,CAROLINA NICOLE",
           "trabaja": "Off",
-          "horaEntrada": "_",
-          "horaSalida": "_"
+          "horaEntrada": "-",
+          "horaSalida": "-\r\n"
         },
         {
           "legajo": "91149",
           "nombre": "HIGASHI ALEJOS,GIAN ALBERTO",
           "trabaja": "Off",
-          "horaEntrada": "_",
-          "horaSalida": "_"
+          "horaEntrada": "-",
+          "horaSalida": "-\r\n"
         },
         {
           "legajo": "91385",
           "nombre": "SANCHEZ,TOBIAS AGUSTIN",
           "trabaja": "Off",
-          "horaEntrada": "_",
-          "horaSalida": "_"
+          "horaEntrada": "-",
+          "horaSalida": "-\r\n"
         },
         {
           "legajo": "91389",
           "nombre": "FOSSA LUCARELLA,TOMAS",
           "trabaja": "Off",
-          "horaEntrada": "_",
-          "horaSalida": "_"
+          "horaEntrada": "-",
+          "horaSalida": "-\r\n"
         },
         {
           "legajo": "C12067",
           "nombre": "RIEDEL,GUADALUPE MICAELA",
           "trabaja": "Off",
-          "horaEntrada": "_",
-          "horaSalida": "_"
+          "horaEntrada": "-",
+          "horaSalida": "-\r\n"
         },
         {
           "legajo": "91390",
           "nombre": "RECARDO DIAZ,SANTINO",
           "trabaja": "Off",
-          "horaEntrada": "_",
-          "horaSalida": "_"
+          "horaEntrada": "-",
+          "horaSalida": "-\r\n"
         },
         {
           "legajo": "91337",
           "nombre": "LEZCANO CABRERA,SOFIA ARACELI",
           "trabaja": "Off",
-          "horaEntrada": "_",
-          "horaSalida": "_"
+          "horaEntrada": "-",
+          "horaSalida": "-\r\n"
         },
         {
           "legajo": "91334",
           "nombre": "AZCONA,AGUSTINA LUZ",
           "trabaja": "Off",
-          "horaEntrada": "_",
-          "horaSalida": "_"
+          "horaEntrada": "-",
+          "horaSalida": "-\r\n"
         },
         {
           "legajo": "91335",
-          "nombre": "QUIÃ'A,IARA AYLEN",
+          "nombre": "QUIÑA,IARA AYLEN",
           "trabaja": "Off",
-          "horaEntrada": "_",
-          "horaSalida": "_"
+          "horaEntrada": "-",
+          "horaSalida": "-\r\n"
         },
         {
           "legajo": "91351",
           "nombre": "IRATO JIMENEZ,LOLA ALUHE",
           "trabaja": "Off",
-          "horaEntrada": "_",
-          "horaSalida": "_"
+          "horaEntrada": "-",
+          "horaSalida": "-\r\n"
         },
         {
           "legajo": "91369",
           "nombre": "GUARDERAS,ROCIO AYELEN",
           "trabaja": "Off",
-          "horaEntrada": "_",
-          "horaSalida": "_"
+          "horaEntrada": "-",
+          "horaSalida": "-\r\n"
         },
         {
           "legajo": "91370",
           "nombre": "ANFOSSO,TOBIAS",
           "trabaja": "Off",
-          "horaEntrada": "_",
-          "horaSalida": "_"
+          "horaEntrada": "-",
+          "horaSalida": "-\r\n"
         },
         {
           "legajo": "91371",
           "nombre": "AEL,FARID",
           "trabaja": "Off",
-          "horaEntrada": "_",
-          "horaSalida": "_"
+          "horaEntrada": "-",
+          "horaSalida": "-\r\n"
         },
         {
-          "legajo": "117122",
+          "legajo": "17122",
           "nombre": "PUCCIO,GIAN ARIEL",
           "trabaja": "Off",
-          "horaEntrada": "_",
-          "horaSalida": "_"
+          "horaEntrada": "-",
+          "horaSalida": "-\r\n"
         },
         {
-          "legajo": "91372",
+          "legajo": "1372",
           "nombre": "GIMENEZ,ELIAN ALEXIS",
           "trabaja": "Off",
-          "horaEntrada": "_",
-          "horaSalida": "_"
+          "horaEntrada": "-",
+          "horaSalida": "-\r\n"
         },
         {
           "legajo": "2366",
           "nombre": "RABAZANO,LUNA ABIGAIL",
-          "trabaja": "Licencia por Re:",
-          "horaEntrada": "_",
-          "horaSalida": "_"
+          "trabaja": "Licencia por Reserva de puesto",
+          "horaEntrada": "-",
+          "horaSalida": "-\r\n"
         }
       ]
     },
@@ -2092,6 +1048,709 @@
           "trabaja": "Licencia por Reserva de puesto",
           "horaEntrada": "-",
           "horaSalida": "-"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-10",
+      "fechaISO": "2026-11-10",
+      "fechaEtiqueta": "VIERNES 13/11/2026",
+      "tienda": "91 - BK Fondo de la Legua",
+      "fechaImpresion": "09/11/26 15:49",
+      "version": "1",
+      "esDemo": false,
+      "horasTotalesPlanilla": 150,
+      "asignaciones": [
+        {
+          "legajo": "91325",
+          "nombre": "NUNEZ BECERRA,ARIADNA BELEN",
+          "trabaja": "Si",
+          "horaEntrada": "06:00",
+          "horaSalida": "11:00"
+        },
+        {
+          "legajo": "91372",
+          "nombre": "GIMENEZ,ELIAN ALEXIS",
+          "trabaja": "Si",
+          "horaEntrada": "06:00",
+          "horaSalida": "11:00"
+        },
+        {
+          "legajo": "91203",
+          "nombre": "REYES,ORIANA JAEL",
+          "trabaja": "Si",
+          "horaEntrada": "06:00",
+          "horaSalida": "11:00"
+        },
+        {
+          "legajo": "91301",
+          "nombre": "PAESANO,TOMAS",
+          "trabaja": "Si",
+          "horaEntrada": "06:00",
+          "horaSalida": "10:00"
+        },
+        {
+          "legajo": "91347",
+          "nombre": "GALLARDI,MICAELA AGUSTINA",
+          "trabaja": "Si",
+          "horaEntrada": "07:00",
+          "horaSalida": "12:00"
+        },
+        {
+          "legajo": "91385",
+          "nombre": "SANCHEZ,TOBIAS AGUSTIN",
+          "trabaja": "Si",
+          "horaEntrada": "08:00",
+          "horaSalida": "14:00"
+        },
+        {
+          "legajo": "91247",
+          "nombre": "LOBOS,LARA SABRINA",
+          "trabaja": "Si",
+          "horaEntrada": "08:30",
+          "horaSalida": "13:00"
+        },
+        {
+          "legajo": "91356",
+          "nombre": "POMA PALOMINO,JHOSTIN FRANK",
+          "trabaja": "Si",
+          "horaEntrada": "10:00",
+          "horaSalida": "14:00"
+        },
+        {
+          "legajo": "91285",
+          "nombre": "LUQUE PACHELLI,ANDRES GABRIEL",
+          "trabaja": "Si",
+          "horaEntrada": "11:00",
+          "horaSalida": "15:00"
+        },
+        {
+          "legajo": "91244",
+          "nombre": "CARRION,LUCIANA AYLEN",
+          "trabaja": "Si",
+          "horaEntrada": "11:00",
+          "horaSalida": "16:00"
+        },
+        {
+          "legajo": "91322",
+          "nombre": "DE LA CONCEPCION,MARIANA ABRIL",
+          "trabaja": "Si",
+          "horaEntrada": "11:00",
+          "horaSalida": "16:00"
+        },
+        {
+          "legajo": "91380",
+          "nombre": "VIGIL ESPEJO,JUAN FRANCISCO",
+          "trabaja": "Si",
+          "horaEntrada": "11:30",
+          "horaSalida": "15:30"
+        },
+        {
+          "legajo": "78184",
+          "nombre": "PAZ,CAROLINA NICOLE",
+          "trabaja": "Si",
+          "horaEntrada": "12:00",
+          "horaSalida": "16:30"
+        },
+        {
+          "legajo": "91334",
+          "nombre": "AZCONA,AGUSTINA LUZ",
+          "trabaja": "Si",
+          "horaEntrada": "12:30",
+          "horaSalida": "17:00"
+        },
+        {
+          "legajo": "91124",
+          "nombre": "LEDESMA,BRUNO NAHUEL",
+          "trabaja": "Si",
+          "horaEntrada": "12:30",
+          "horaSalida": "18:30"
+        },
+        {
+          "legajo": "91361",
+          "nombre": "PERALTA,EBER EZEQUIEL",
+          "trabaja": "Si",
+          "horaEntrada": "13:00",
+          "horaSalida": "18:00"
+        },
+        {
+          "legajo": "91271",
+          "nombre": "MAIELLO ESCALONA,GIADA ANDREA",
+          "trabaja": "Si",
+          "horaEntrada": "13:00",
+          "horaSalida": "18:00"
+        },
+        {
+          "legajo": "91383",
+          "nombre": "RECARDO DIAZ,LUCAS",
+          "trabaja": "Si",
+          "horaEntrada": "13:00",
+          "horaSalida": "18:00"
+        },
+        {
+          "legajo": "91362",
+          "nombre": "VILARNOVO,RODRIGO FAUSTO",
+          "trabaja": "Si",
+          "horaEntrada": "16:00",
+          "horaSalida": "22:00"
+        },
+        {
+          "legajo": "91341",
+          "nombre": "PACCIONE MORAIS,BRUNO",
+          "trabaja": "Si",
+          "horaEntrada": "18:00",
+          "horaSalida": "23:00"
+        },
+        {
+          "legajo": "91335",
+          "nombre": "QUIÃ'A,IARA AYLEN",
+          "trabaja": "Si",
+          "horaEntrada": "18:00",
+          "horaSalida": "23:00"
+        },
+        {
+          "legajo": "91366",
+          "nombre": "ANDREOZZI,LUCIANA YAZMIN",
+          "trabaja": "Si",
+          "horaEntrada": "18:00",
+          "horaSalida": "23:00"
+        },
+        {
+          "legajo": "91390",
+          "nombre": "RECARDO DIAZ,SANTINO",
+          "trabaja": "Si",
+          "horaEntrada": "18:30",
+          "horaSalida": "23:30"
+        },
+        {
+          "legajo": "91371",
+          "nombre": "AEL,FARID",
+          "trabaja": "Si",
+          "horaEntrada": "20:00",
+          "horaSalida": "00:00"
+        },
+        {
+          "legajo": "91368",
+          "nombre": "COLMAN,HAROLD TOBIAS",
+          "trabaja": "Si",
+          "horaEntrada": "20:00",
+          "horaSalida": "00:00"
+        },
+        {
+          "legajo": "91277",
+          "nombre": "BARRIENTOS,SOFIA AILEN",
+          "trabaja": "Si",
+          "horaEntrada": "20:00",
+          "horaSalida": "00:00"
+        },
+        {
+          "legajo": "91252",
+          "nombre": "JIMENEZ,GALA CAROLINA",
+          "trabaja": "Si",
+          "horaEntrada": "20:30",
+          "horaSalida": "04:00"
+        },
+        {
+          "legajo": "91388",
+          "nombre": "RAINIERI,SANTIAGO SALVADOR",
+          "trabaja": "Si",
+          "horaEntrada": "20:30",
+          "horaSalida": "01:30"
+        },
+        {
+          "legajo": "91337",
+          "nombre": "LEZCANO CABRERA,SOFIA ARACELI",
+          "trabaja": "Si",
+          "horaEntrada": "21:00",
+          "horaSalida": "02:00"
+        },
+        {
+          "legajo": "91351",
+          "nombre": "IRATO JIMENEZ,LOLA ALUHE",
+          "trabaja": "Si",
+          "horaEntrada": "23:00",
+          "horaSalida": "04:00"
+        },
+        {
+          "legajo": "125033",
+          "nombre": "AGUIRRE,LUCIA VERONICA",
+          "trabaja": "Si",
+          "horaEntrada": "00:00",
+          "horaSalida": "04:00"
+        },
+        {
+          "legajo": "91266",
+          "nombre": "PIZARRO,VALENTINA ABRIL",
+          "trabaja": "Si",
+          "horaEntrada": "00:00",
+          "horaSalida": "04:00"
+        },
+        {
+          "legajo": "91349",
+          "nombre": "PEREZ,ARIANA IRIEL",
+          "trabaja": "Si",
+          "horaEntrada": "00:00",
+          "horaSalida": "04:00"
+        },
+        {
+          "legajo": "43003",
+          "nombre": "CASTILLO,CAMILA NELIDA",
+          "trabaja": "Off",
+          "horaEntrada": " - ",
+          "horaSalida": " - "
+        },
+        {
+          "legajo": "91321",
+          "nombre": "CUEVAS,LOURDES MARA",
+          "trabaja": "Off",
+          "horaEntrada": " - ",
+          "horaSalida": " - "
+        },
+        {
+          "legajo": "91382",
+          "nombre": "BOTTANI JEREZ,GENERO LUCA",
+          "trabaja": "Off",
+          "horaEntrada": " - ",
+          "horaSalida": " - "
+        },
+        {
+          "legajo": "91303",
+          "nombre": "CARRION,GUADALUPE CELESTE",
+          "trabaja": "Off",
+          "horaEntrada": " - ",
+          "horaSalida": " - "
+        },
+        {
+          "legajo": "91344",
+          "nombre": "GAMBOA,LAUTARO DANIEL",
+          "trabaja": "Off",
+          "horaEntrada": " - ",
+          "horaSalida": " - "
+        },
+        {
+          "legajo": "91309",
+          "nombre": "SILVA,ANA MICAELA",
+          "trabaja": "Off",
+          "horaEntrada": " - ",
+          "horaSalida": " - "
+        },
+        {
+          "legajo": "91286",
+          "nombre": "GAUNA,JESICA CAROLINA",
+          "trabaja": "Off",
+          "horaEntrada": " - ",
+          "horaSalida": " - "
+        },
+        {
+          "legajo": "91149",
+          "nombre": "HIGASHI ALEJOS,GIAN ALBERTO",
+          "trabaja": "Off",
+          "horaEntrada": " - ",
+          "horaSalida": " - "
+        },
+        {
+          "legajo": "91387",
+          "nombre": "GIMENEZ,DYLAN JOEL",
+          "trabaja": "Off",
+          "horaEntrada": " - ",
+          "horaSalida": " - "
+        },
+        {
+          "legajo": "91389",
+          "nombre": "FOSSA LUCARELLA,TOMAS",
+          "trabaja": "Off",
+          "horaEntrada": " - ",
+          "horaSalida": " - "
+        },
+        {
+          "legajo": "C12067",
+          "nombre": "RIEDEL,GUADALUPE MICAELA",
+          "trabaja": "Off",
+          "horaEntrada": " - ",
+          "horaSalida": " - "
+        },
+        {
+          "legajo": "91369",
+          "nombre": "GUARDERAS,ROCIO AYELEN",
+          "trabaja": "Off",
+          "horaEntrada": " - ",
+          "horaSalida": " - "
+        },
+        {
+          "legajo": "91370",
+          "nombre": "ANFOSSO,TOBIAS",
+          "trabaja": "Off",
+          "horaEntrada": " - ",
+          "horaSalida": " - "
+        },
+        {
+          "legajo": "117122",
+          "nombre": "PUCCIO,GIAN ARIEL",
+          "trabaja": "Off",
+          "horaEntrada": " - ",
+          "horaSalida": " - "
+        },
+        {
+          "legajo": "92366",
+          "nombre": "RABAZANO,LUNA ABIGAIL",
+          "trabaja": "Licencia por Reserva de puesto",
+          "horaEntrada": " - ",
+          "horaSalida": " - "
+        }
+      ]
+    },
+    {
+      "id": "2026-11-12",
+      "fechaISO": "2026-11-12",
+      "fechaEtiqueta": "JUEVES 12/11/2026",
+      "tienda": "91 - BK Fondo de La Legua",
+      "fechaImpresion": "09/11/26 14:49",
+      "version": "1",
+      "esDemo": false,
+      "horasTotalesPlanilla": 150,
+      "asignaciones": [
+        {
+          "legajo": "91322",
+          "nombre": "DE LA CONCEPCION,MARIANA ABRIL",
+          "trabaja": "Si",
+          "horaEntrada": "06:00",
+          "horaSalida": "11:00"
+        },
+        {
+          "legajo": "91369",
+          "nombre": "GUARDERAS,ROCIO AYELEN",
+          "trabaja": "Si",
+          "horaEntrada": "06:00",
+          "horaSalida": "11:00"
+        },
+        {
+          "legajo": "91385",
+          "nombre": "SANCHEZ,TOBIAS AGUSTIN",
+          "trabaja": "Si",
+          "horaEntrada": "06:00",
+          "horaSalida": "11:00"
+        },
+        {
+          "legajo": "91301",
+          "nombre": "PAESANO,TOMAS",
+          "trabaja": "Si",
+          "horaEntrada": "06:00",
+          "horaSalida": "11:00"
+        },
+        {
+          "legajo": "91335",
+          "nombre": "QUIAÃ'A,IARA AYLEN",
+          "trabaja": "Si",
+          "horaEntrada": "07:00",
+          "horaSalida": "12:00"
+        },
+        {
+          "legajo": "91325",
+          "nombre": "NUNEZ BECERRA,ARIADNA BELEN",
+          "trabaja": "Si",
+          "horaEntrada": "08:00",
+          "horaSalida": "14:30"
+        },
+        {
+          "legajo": "91303",
+          "nombre": "CARRION,GUADALUPE CELESTE",
+          "trabaja": "Si",
+          "horaEntrada": "08:30",
+          "horaSalida": "14:30"
+        },
+        {
+          "legajo": "91361",
+          "nombre": "PERALTA,EBER EZEQUIEL",
+          "trabaja": "Si",
+          "horaEntrada": "11:00",
+          "horaSalida": "17:00"
+        },
+        {
+          "legajo": "91372",
+          "nombre": "GIMENEZ,ELIAN ALEXIS",
+          "trabaja": "Si",
+          "horaEntrada": "11:00",
+          "horaSalida": "15:30"
+        },
+        {
+          "legajo": "91380",
+          "nombre": "VIGIL ESPEJO,JUAN FRANCISCO",
+          "trabaja": "Si",
+          "horaEntrada": "11:00",
+          "horaSalida": "15:30"
+        },
+        {
+          "legajo": "91244",
+          "nombre": "CARRION,LUCIANA AYLEN",
+          "trabaja": "Si",
+          "horaEntrada": "11:00",
+          "horaSalida": "17:00"
+        },
+        {
+          "legajo": "91347",
+          "nombre": "GALLARDI,MICAELA AGUSTINA",
+          "trabaja": "Si",
+          "horaEntrada": "11:00",
+          "horaSalida": "17:00"
+        },
+        {
+          "legajo": "91344",
+          "nombre": "GAMBOA,LAUTARO DANIEL",
+          "trabaja": "Si",
+          "horaEntrada": "12:00",
+          "horaSalida": "18:00"
+        },
+        {
+          "legajo": "91351",
+          "nombre": "IRATO JIMENEZ,LOLA ALUHE",
+          "trabaja": "Si",
+          "horaEntrada": "12:30",
+          "horaSalida": "17:00"
+        },
+        {
+          "legajo": "C12067",
+          "nombre": "RIEDEL,GUADALUPE MICAELA",
+          "trabaja": "Si",
+          "horaEntrada": "12:30",
+          "horaSalida": "17:00"
+        },
+        {
+          "legajo": "91334",
+          "nombre": "AZCONA,AGUSTINA LUZ",
+          "trabaja": "Si",
+          "horaEntrada": "13:00",
+          "horaSalida": "18:00"
+        },
+        {
+          "legajo": "91368",
+          "nombre": "COLMAN,HAROLD TOBIAS",
+          "trabaja": "Si",
+          "horaEntrada": "17:00",
+          "horaSalida": "23:00"
+        },
+        {
+          "legajo": "91366",
+          "nombre": "ANDREOZZI,LUCIANA YAZMIN",
+          "trabaja": "Si",
+          "horaEntrada": "17:00",
+          "horaSalida": "23:00"
+        },
+        {
+          "legajo": "B12810",
+          "nombre": "MAIZ,LAUTARO ANDRES",
+          "trabaja": "Si",
+          "horaEntrada": "17:00",
+          "horaSalida": "23:00"
+        },
+        {
+          "legajo": "91341",
+          "nombre": "PACCIONE MORAIS,BRUNO",
+          "trabaja": "Si",
+          "horaEntrada": "18:00",
+          "horaSalida": "23:00"
+        },
+        {
+          "legajo": "91370",
+          "nombre": "ANFOSSO,TOBIAS",
+          "trabaja": "Si",
+          "horaEntrada": "18:00",
+          "horaSalida": "23:00"
+        },
+        {
+          "legajo": "78184",
+          "nombre": "PAZ,CAROLINA NICOLE",
+          "trabaja": "Si",
+          "horaEntrada": "20:00",
+          "horaSalida": "00:00"
+        },
+        {
+          "legajo": "91252",
+          "nombre": "JIMENEZ,GALA CAROLINA",
+          "trabaja": "Si",
+          "horaEntrada": "20:00",
+          "horaSalida": "04:00"
+        },
+        {
+          "legajo": "91383",
+          "nombre": "RECARDO DIAZ,LUCAS",
+          "trabaja": "Si",
+          "horaEntrada": "20:00",
+          "horaSalida": "00:00"
+        },
+        {
+          "legajo": "91362",
+          "nombre": "VILARNOVO,RODRIGO FAUSTO",
+          "trabaja": "Si",
+          "horaEntrada": "20:00",
+          "horaSalida": "02:00"
+        },
+        {
+          "legajo": "91286",
+          "nombre": "GAUNA,JESICA CAROLINA",
+          "trabaja": "Si",
+          "horaEntrada": "20:30",
+          "horaSalida": "01:30"
+        },
+        {
+          "legajo": "91371",
+          "nombre": "AEL,FARID",
+          "trabaja": "Si",
+          "horaEntrada": "23:00",
+          "horaSalida": "04:00"
+        },
+        {
+          "legajo": "91149",
+          "nombre": "HIGASHI ALEJOS,GIAN ALBERTO",
+          "trabaja": "Si",
+          "horaEntrada": "23:00",
+          "horaSalida": "04:00"
+        },
+        {
+          "legajo": "91266",
+          "nombre": "PIZARRO,VALENTINA ABRIL",
+          "trabaja": "Si",
+          "horaEntrada": "23:00",
+          "horaSalida": "04:00"
+        },
+        {
+          "legajo": "91124",
+          "nombre": "LEDESMA,BRUNO NAHUEL",
+          "trabaja": "Off",
+          "horaEntrada": "",
+          "horaSalida": ""
+        },
+        {
+          "legajo": "43003",
+          "nombre": "CASTILLO,CAMILA NELIDA",
+          "trabaja": "Off",
+          "horaEntrada": "",
+          "horaSalida": ""
+        },
+        {
+          "legajo": "91321",
+          "nombre": "CUEVAS,LOURDES MARA",
+          "trabaja": "Off",
+          "horaEntrada": "",
+          "horaSalida": ""
+        },
+        {
+          "legajo": "91271",
+          "nombre": "MAIELLO ESCALONA,GIADA ANDREA",
+          "trabaja": "Off",
+          "horaEntrada": "",
+          "horaSalida": ""
+        },
+        {
+          "legajo": "91277",
+          "nombre": "BARRIENTOS,SOFIA AILEN",
+          "trabaja": "Off",
+          "horaEntrada": "",
+          "horaSalida": ""
+        },
+        {
+          "legajo": "1382",
+          "nombre": "BOTTANI JEREZ,GENERO LUCA",
+          "trabaja": "Off",
+          "horaEntrada": "",
+          "horaSalida": ""
+        },
+        {
+          "legajo": "1356",
+          "nombre": "POMA PALOMINO,JHOSTIN FRANK",
+          "trabaja": "Off",
+          "horaEntrada": "",
+          "horaSalida": ""
+        },
+        {
+          "legajo": "1247",
+          "nombre": "LOBOS,LARA SABRINA",
+          "trabaja": "Off",
+          "horaEntrada": "",
+          "horaSalida": ""
+        },
+        {
+          "legajo": "1309",
+          "nombre": "SILVA,ANA MICAELA",
+          "trabaja": "Off",
+          "horaEntrada": "",
+          "horaSalida": ""
+        },
+        {
+          "legajo": "203",
+          "nombre": "REYES,ORIANA JAEL",
+          "trabaja": "Off",
+          "horaEntrada": "",
+          "horaSalida": ""
+        },
+        {
+          "legajo": "285",
+          "nombre": "LUQUE PACHELLI,ANDRES GABRIEL",
+          "trabaja": "Off",
+          "horaEntrada": "",
+          "horaSalida": ""
+        },
+        {
+          "legajo": "5033",
+          "nombre": "AGUIRRE,LUCIA VERONICA",
+          "trabaja": "Off",
+          "horaEntrada": "",
+          "horaSalida": ""
+        },
+        {
+          "legajo": "387",
+          "nombre": "GIMENEZ,DYLAN JOEL",
+          "trabaja": "Off",
+          "horaEntrada": "",
+          "horaSalida": ""
+        },
+        {
+          "legajo": "88",
+          "nombre": "RAINIERI,SANTIAGO SALVADOR",
+          "trabaja": "Off",
+          "horaEntrada": "",
+          "horaSalida": ""
+        },
+        {
+          "legajo": "89",
+          "nombre": "FOSSA LUCARELLA,TOMAS",
+          "trabaja": "Off",
+          "horaEntrada": "",
+          "horaSalida": ""
+        },
+        {
+          "legajo": "90",
+          "nombre": "RECARDO DIAZ,SANTINO",
+          "trabaja": "Off",
+          "horaEntrada": "",
+          "horaSalida": ""
+        },
+        {
+          "legajo": "37",
+          "nombre": "LEZCANO CABRERA,SOFIA ARACELI",
+          "trabaja": "Off",
+          "horaEntrada": "",
+          "horaSalida": ""
+        },
+        {
+          "legajo": "9",
+          "nombre": "PEREZ,ARIANA IRIEL",
+          "trabaja": "Off",
+          "horaEntrada": "",
+          "horaSalida": ""
+        },
+        {
+          "legajo": "22",
+          "nombre": "PUCCIO,GIAN ARIEL",
+          "trabaja": "Off",
+          "horaEntrada": "",
+          "horaSalida": ""
+        },
+        {
+          "legajo": "5",
+          "nombre": "RABAZANO,LUNA ABIGAIL",
+          "trabaja": "Licencia por Reserva de puesto",
+          "horaEntrada": "",
+          "horaSalida": ""
         }
       ]
     }
@@ -2958,6 +2617,502 @@
           "horas": 4.5,
           "horaEntrada": "23:30",
           "horaSalida": "04:00"
+        }
+      }
+    },
+    "2026-11-06": {
+      "fechaISO": "2026-11-06",
+      "fechaEtiqueta": "VIERNES 06/11/2026",
+      "purgadoEn": "Gráfica depurada (Horas conservadas en Quincena)",
+      "registros": {
+        "78184": {
+          "horas": 4.5,
+          "horaEntrada": "18:30",
+          "horaSalida": "23:00"
+        },
+        "91124": {
+          "horas": 5,
+          "horaEntrada": "11:00",
+          "horaSalida": "16:00"
+        },
+        "91203": {
+          "horas": 5,
+          "horaEntrada": "06:00",
+          "horaSalida": "11:00"
+        },
+        "91244": {
+          "horas": 6,
+          "horaEntrada": "12:30",
+          "horaSalida": "18:30"
+        },
+        "91247": {
+          "horas": 6,
+          "horaEntrada": "08:30",
+          "horaSalida": "14:30"
+        },
+        "91252": {
+          "horas": 6.5,
+          "horaEntrada": "00:30",
+          "horaSalida": "07:00"
+        },
+        "91285": {
+          "horas": 5,
+          "horaEntrada": "20:30",
+          "horaSalida": "01:30"
+        },
+        "91286": {
+          "horas": 4.5,
+          "horaEntrada": "17:00",
+          "horaSalida": "21:30"
+        },
+        "91303": {
+          "horas": 5,
+          "horaEntrada": "12:00",
+          "horaSalida": "17:00"
+        },
+        "91322": {
+          "horas": 5,
+          "horaEntrada": "12:30",
+          "horaSalida": "17:30"
+        },
+        "91325": {
+          "horas": 5,
+          "horaEntrada": "06:00",
+          "horaSalida": "11:00"
+        },
+        "91334": {
+          "horas": 5,
+          "horaEntrada": "00:00",
+          "horaSalida": "05:00"
+        },
+        "91335": {
+          "horas": 6,
+          "horaEntrada": "17:00",
+          "horaSalida": "23:00"
+        },
+        "91337": {
+          "horas": 4.5,
+          "horaEntrada": "20:00",
+          "horaSalida": "00:30"
+        },
+        "91341": {
+          "horas": 5,
+          "horaEntrada": "06:00",
+          "horaSalida": "11:00"
+        },
+        "91344": {
+          "horas": 4,
+          "horaEntrada": "20:00",
+          "horaSalida": "00:00"
+        },
+        "91347": {
+          "horas": 5,
+          "horaEntrada": "07:00",
+          "horaSalida": "12:00"
+        },
+        "91356": {
+          "horas": 4.5,
+          "horaEntrada": "06:00",
+          "horaSalida": "10:30"
+        },
+        "91361": {
+          "horas": 5,
+          "horaEntrada": "11:00",
+          "horaSalida": "16:00"
+        },
+        "91366": {
+          "horas": 5,
+          "horaEntrada": "17:30",
+          "horaSalida": "22:30"
+        },
+        "91368": {
+          "horas": 6.5,
+          "horaEntrada": "00:30",
+          "horaSalida": "07:00"
+        },
+        "91370": {
+          "horas": 4.5,
+          "horaEntrada": "20:00",
+          "horaSalida": "00:30"
+        },
+        "91371": {
+          "horas": 7,
+          "horaEntrada": "21:00",
+          "horaSalida": "04:00"
+        },
+        "91372": {
+          "horas": 5,
+          "horaEntrada": "12:00",
+          "horaSalida": "17:00"
+        },
+        "91380": {
+          "horas": 4,
+          "horaEntrada": "10:30",
+          "horaSalida": "14:30"
+        },
+        "91382": {
+          "horas": 5,
+          "horaEntrada": "12:00",
+          "horaSalida": "17:00"
+        },
+        "91383": {
+          "horas": 6.5,
+          "horaEntrada": "20:30",
+          "horaSalida": "03:00"
+        },
+        "91385": {
+          "horas": 6,
+          "horaEntrada": "08:00",
+          "horaSalida": "14:00"
+        },
+        "91387": {
+          "horas": 4.5,
+          "horaEntrada": "11:00",
+          "horaSalida": "15:30"
+        },
+        "91389": {
+          "horas": 6,
+          "horaEntrada": "17:00",
+          "horaSalida": "23:00"
+        },
+        "B12810": {
+          "horas": 6,
+          "horaEntrada": "12:00",
+          "horaSalida": "18:00"
+        },
+        "C12067": {
+          "horas": 4,
+          "horaEntrada": "20:00",
+          "horaSalida": "00:00"
+        }
+      }
+    },
+    "2026-11-07": {
+      "fechaISO": "2026-11-07",
+      "fechaEtiqueta": "SABADO 07/11/2026",
+      "purgadoEn": "Gráfica depurada (Horas conservadas en Quincena)",
+      "registros": {
+        "91124": {
+          "horas": 4,
+          "horaEntrada": "11:00",
+          "horaSalida": "15:00"
+        },
+        "91149": {
+          "horas": 4.5,
+          "horaEntrada": "18:00",
+          "horaSalida": "22:30"
+        },
+        "91247": {
+          "horas": 5,
+          "horaEntrada": "09:30",
+          "horaSalida": "14:30"
+        },
+        "91252": {
+          "horas": 4,
+          "horaEntrada": "19:30",
+          "horaSalida": "23:30"
+        },
+        "91266": {
+          "horas": 6,
+          "horaEntrada": "01:00",
+          "horaSalida": "07:00"
+        },
+        "91271": {
+          "horas": 6,
+          "horaEntrada": "01:00",
+          "horaSalida": "07:00"
+        },
+        "91277": {
+          "horas": 5,
+          "horaEntrada": "20:00",
+          "horaSalida": "01:00"
+        },
+        "91285": {
+          "horas": 5,
+          "horaEntrada": "20:00",
+          "horaSalida": "01:00"
+        },
+        "91322": {
+          "horas": 4,
+          "horaEntrada": "07:00",
+          "horaSalida": "11:00"
+        },
+        "91325": {
+          "horas": 4,
+          "horaEntrada": "12:00",
+          "horaSalida": "16:00"
+        },
+        "91334": {
+          "horas": 5,
+          "horaEntrada": "00:00",
+          "horaSalida": "05:00"
+        },
+        "91335": {
+          "horas": 5,
+          "horaEntrada": "12:00",
+          "horaSalida": "17:00"
+        },
+        "91337": {
+          "horas": 6.5,
+          "horaEntrada": "20:30",
+          "horaSalida": "03:00"
+        },
+        "91341": {
+          "horas": 4.5,
+          "horaEntrada": "07:00",
+          "horaSalida": "11:30"
+        },
+        "91347": {
+          "horas": 5,
+          "horaEntrada": "08:00",
+          "horaSalida": "13:00"
+        },
+        "91349": {
+          "horas": 4,
+          "horaEntrada": "20:00",
+          "horaSalida": "00:00"
+        },
+        "91351": {
+          "horas": 6.5,
+          "horaEntrada": "12:30",
+          "horaSalida": "19:00"
+        },
+        "91356": {
+          "horas": 5,
+          "horaEntrada": "06:00",
+          "horaSalida": "11:00"
+        },
+        "91361": {
+          "horas": 4,
+          "horaEntrada": "11:00",
+          "horaSalida": "15:00"
+        },
+        "91366": {
+          "horas": 6,
+          "horaEntrada": "14:30",
+          "horaSalida": "20:30"
+        },
+        "91368": {
+          "horas": 6,
+          "horaEntrada": "19:00",
+          "horaSalida": "01:00"
+        },
+        "91369": {
+          "horas": 5,
+          "horaEntrada": "07:00",
+          "horaSalida": "12:00"
+        },
+        "91370": {
+          "horas": 7.5,
+          "horaEntrada": "20:30",
+          "horaSalida": "04:00"
+        },
+        "91371": {
+          "horas": 5,
+          "horaEntrada": "18:00",
+          "horaSalida": "23:00"
+        },
+        "91372": {
+          "horas": 5,
+          "horaEntrada": "12:30",
+          "horaSalida": "17:30"
+        },
+        "91382": {
+          "horas": 4.5,
+          "horaEntrada": "11:30",
+          "horaSalida": "16:00"
+        },
+        "91383": {
+          "horas": 4.5,
+          "horaEntrada": "20:00",
+          "horaSalida": "00:30"
+        },
+        "91385": {
+          "horas": 6.5,
+          "horaEntrada": "08:00",
+          "horaSalida": "14:30"
+        },
+        "91387": {
+          "horas": 5,
+          "horaEntrada": "17:00",
+          "horaSalida": "22:00"
+        },
+        "91389": {
+          "horas": 5,
+          "horaEntrada": "20:30",
+          "horaSalida": "01:30"
+        },
+        "91390": {
+          "horas": 5,
+          "horaEntrada": "13:00",
+          "horaSalida": "18:00"
+        },
+        "125033": {
+          "horas": 6,
+          "horaEntrada": "12:00",
+          "horaSalida": "18:00"
+        },
+        "C12067": {
+          "horas": 4,
+          "horaEntrada": "12:00",
+          "horaSalida": "16:00"
+        }
+      }
+    },
+    "2026-11-08": {
+      "fechaISO": "2026-11-08",
+      "fechaEtiqueta": "DOMINGO 08/11/2026",
+      "purgadoEn": "Gráfica depurada (Horas conservadas en Quincena)",
+      "registros": {
+        "78184": {
+          "horas": 5,
+          "horaEntrada": "13:00",
+          "horaSalida": "18:00"
+        },
+        "91149": {
+          "horas": 5,
+          "horaEntrada": "21:00",
+          "horaSalida": "02:00"
+        },
+        "91203": {
+          "horas": 4.5,
+          "horaEntrada": "07:00",
+          "horaSalida": "11:30"
+        },
+        "91252": {
+          "horas": 5,
+          "horaEntrada": "18:00",
+          "horaSalida": "23:00"
+        },
+        "91266": {
+          "horas": 5,
+          "horaEntrada": "23:00",
+          "horaSalida": "04:00"
+        },
+        "91277": {
+          "horas": 4,
+          "horaEntrada": "20:00",
+          "horaSalida": "00:00"
+        },
+        "91286": {
+          "horas": 4,
+          "horaEntrada": "19:00",
+          "horaSalida": "23:00"
+        },
+        "91301": {
+          "horas": 5,
+          "horaEntrada": "06:30",
+          "horaSalida": "11:30"
+        },
+        "91322": {
+          "horas": 4,
+          "horaEntrada": "11:00",
+          "horaSalida": "15:00"
+        },
+        "91325": {
+          "horas": 4,
+          "horaEntrada": "07:00",
+          "horaSalida": "11:00"
+        },
+        "91334": {
+          "horas": 5,
+          "horaEntrada": "18:00",
+          "horaSalida": "23:00"
+        },
+        "91337": {
+          "horas": 4.5,
+          "horaEntrada": "23:30",
+          "horaSalida": "04:00"
+        },
+        "91341": {
+          "horas": 6,
+          "horaEntrada": "08:30",
+          "horaSalida": "14:30"
+        },
+        "91344": {
+          "horas": 5,
+          "horaEntrada": "17:30",
+          "horaSalida": "22:30"
+        },
+        "91347": {
+          "horas": 4,
+          "horaEntrada": "11:00",
+          "horaSalida": "15:00"
+        },
+        "91349": {
+          "horas": 4.5,
+          "horaEntrada": "23:30",
+          "horaSalida": "04:00"
+        },
+        "91351": {
+          "horas": 4.5,
+          "horaEntrada": "19:00",
+          "horaSalida": "23:30"
+        },
+        "91356": {
+          "horas": 4.5,
+          "horaEntrada": "11:30",
+          "horaSalida": "16:00"
+        },
+        "91362": {
+          "horas": 4,
+          "horaEntrada": "12:00",
+          "horaSalida": "16:00"
+        },
+        "91366": {
+          "horas": 5,
+          "horaEntrada": "12:30",
+          "horaSalida": "17:30"
+        },
+        "91368": {
+          "horas": 4,
+          "horaEntrada": "15:00",
+          "horaSalida": "19:00"
+        },
+        "91369": {
+          "horas": 4,
+          "horaEntrada": "11:30",
+          "horaSalida": "15:30"
+        },
+        "91371": {
+          "horas": 4,
+          "horaEntrada": "20:00",
+          "horaSalida": "00:00"
+        },
+        "91372": {
+          "horas": 4,
+          "horaEntrada": "07:00",
+          "horaSalida": "11:00"
+        },
+        "91380": {
+          "horas": 4,
+          "horaEntrada": "19:30",
+          "horaSalida": "23:30"
+        },
+        "91385": {
+          "horas": 5,
+          "horaEntrada": "13:00",
+          "horaSalida": "18:00"
+        },
+        "91387": {
+          "horas": 4,
+          "horaEntrada": "11:00",
+          "horaSalida": "15:00"
+        },
+        "91388": {
+          "horas": 5,
+          "horaEntrada": "23:00",
+          "horaSalida": "04:00"
+        },
+        "91389": {
+          "horas": 5,
+          "horaEntrada": "20:30",
+          "horaSalida": "01:30"
+        },
+        "91390": {
+          "horas": 4,
+          "horaEntrada": "15:00",
+          "horaSalida": "19:00"
         }
       }
     }
